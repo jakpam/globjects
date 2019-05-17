@@ -76,7 +76,7 @@ option(OPTION_SELF_CONTAINED      "Create a self-contained install with all depe
 option(OPTION_BUILD_DOCS          "Build documentation."                                         OFF)
 option(OPTION_BUILD_EXAMPLES      "Build examples."                                              OFF)
 option(OPTION_ERRORS_AS_EXCEPTION "Throw exceptions instead of printing OpenGL run-time errors." OFF)
-
+option(OPTION_USE_EIGEN           "Add Eigen types as basic vector type for uniforms."           OFF)
 
 # 
 # Declare project
