@@ -3,8 +3,8 @@
 # External dependencies
 # 
 
-find_package(glm REQUIRED)
-find_package(glbinding REQUIRED)
+#find_package(glm REQUIRED)
+#find_package(glbinding REQUIRED)
 
 # 
 # Library name and options
